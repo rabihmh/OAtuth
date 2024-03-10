@@ -1,0 +1,6 @@
+@OAtuthClient_HostAddress = http://localhost:5116
+
+GET {{OAtuthClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
